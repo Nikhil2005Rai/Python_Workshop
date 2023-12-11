@@ -6,4 +6,4 @@ print("You are",num,"years old",type(num))
 
 #____i/o second way
 value = int(input("Enter the value: "))
-print("The value of this is {value}")
+print(f"The value of this is {value}")
