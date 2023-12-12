@@ -1,0 +1,6 @@
+a = float(input("Enter the value of a:"))
+b = float(input("Enter the value of b:"))
+print("The sum of",a,"and",b,"is",a+b)
+print("The sum of {} and {} is {}".format(a,b,a+b))
+print(f"The sum of {a} and {b} is {a+b}")
+print("Sum till five places is {0:.4f}".format(a+b))
