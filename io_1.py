@@ -1,0 +1,5 @@
+name = input("Enter your name:")
+branch= input("Enter your branch:")
+print("My name is",name,"and I am from",branch,"branch.")
+print("My name is {} and Iam from {} branch.".format(name,branch))
+print(f"My name is {name} andI am from {branch} branch.")
